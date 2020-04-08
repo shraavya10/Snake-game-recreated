@@ -1,2 +1,2 @@
-# Snake-game-recreated
-I created my own version of flickering snake.
+# p5.play-boilerplate
+Boiler plate for p5.play
